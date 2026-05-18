@@ -1,0 +1,27 @@
+# Snail Mail 🐌📫
+# Codédex solutions
+# A mail to your future self
+
+print('+---------------------------------------------------------------------------------+')
+print('|                                                                                 |')
+print('|                                                                    May 2026     |')
+print('|                                                                    India        |')
+print('|       Dear Self,                                                                |')
+print('|                                                                                 |')
+print('|       Do you now have the bike you dreamed of?                                  |')
+print('|       Are you satisfied of what I have become?                                  |')
+print('|       Are we still chasing a life of hard work and sweet rewards?               |')
+print('|                                                                                 |')
+print('|       For a future you wish to experience give me the strength to work hard-    |')
+print('|       so tomorrow when we both come and look at this mail again                 |')
+print('|       We can laugh together and enjoy our success over a cup of coffee ☕!      |')
+print('|                                                                                 |')
+print('|       Let\'s not disappoint ourselves and go for that ALL INDIA BIKE TOUR !!    |')
+print('|                                                                                 |')
+print('|       And when things fall apart, get tf back up.                               |')
+print('|                                                                                 |')
+print('|       - Tarush                                                                  |')
+print('|                                                                                 |')
+print('|       P.S. Hope I made you proud. We got this   🤠                              |')
+print('|                                                                                 |')
+print('+---------------------------------------------------------------------------------+')
