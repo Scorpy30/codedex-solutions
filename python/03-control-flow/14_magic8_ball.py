@@ -1,5 +1,6 @@
 # Magic 8 Ball 🎱
 # Codédex solutions
+# In this example, we will create a simple Magic 8 Ball program that provides random answers to user questions. The Magic 8 Ball is a toy used for fortune-telling or seeking advice, and it typically provides one of 20 possible answers to yes-or-no questions.
 
 import random
 

@@ -1,5 +1,7 @@
 # Quadratic Equation 🧮
 # Codédex solutions
+# In this example, we will solve a quadratic equation of the form ax² + bx + c = 0 using the quadratic formula. The formula for finding the roots of a quadratic equation is:
+# x = (-b ± √(b² - 4ac)) / (2a)
 
 a = int(input("Enter coefficient 'a': "))
 b = int(input("Enter coefficient 'b': "))

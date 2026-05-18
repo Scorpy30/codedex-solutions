@@ -1,5 +1,6 @@
 # Sorting Hat 🎩
 # Codédex solutions
+# In this example, we will create a simple sorting hat program that assigns a user to one of the four Hogwarts houses (Gryffindor, Hufflepuff, Ravenclaw, or Slytherin) based on their answers to a series of questions. The program will keep track of points for each house and determine the final house assignment based on the highest points.
 
 points_g = 0
 points_r = 0
