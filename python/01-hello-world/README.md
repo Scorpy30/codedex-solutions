@@ -27,3 +27,14 @@ Basic Python output and formatting exercises from Codédex - Python course.
 ## Screenshots
 
 See the [`screenshots/`](screenshots/) folder.
+
+## Explorations
+
+Additional experiments and pattern variations are available in the [`explorations/`](explorations/) folder.
+
+Topics explored:
+- reverse triangles
+- centered alignment
+- alphabet patterns
+- dynamic spacing
+- formatting improvements
