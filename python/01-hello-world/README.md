@@ -2,6 +2,18 @@
 
 Basic Python output and formatting exercises from Codédex - Python course.
 
+---
+
+# Chapter Progress
+
+| Section | Status |
+|---|---|
+| Exercises | 🟩 Completed |
+| Explorations | 🟩 Completed |
+| Notes | 🟩 Completed |
+
+---
+
 ## Exercises
 
 - [02 Hello World](exercises/02_hello_world.py)
