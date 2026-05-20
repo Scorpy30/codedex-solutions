@@ -234,7 +234,7 @@ pip install numpy
 
 ---
 
-# [`explorations/03_alphabetical_pattern.py`] (explorations/03_alphabetical_pattern.py)
+# 03_alphabetical_pattern.py
 
 ## Using `.strip()` to Remove Extra Spaces
 
