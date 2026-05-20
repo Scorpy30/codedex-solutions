@@ -1,4 +1,3 @@
-````md
 # Python Journey 🐍
 
 Learning Python through hands-on explorations, pattern building, logic practice, and mini-projects using Codédex.
@@ -166,4 +165,4 @@ git push
 
 Tarush
 B.Tech CSE — KIIT University
-````
+
