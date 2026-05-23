@@ -31,6 +31,22 @@ Basic Python output and formatting exercises from Codédex - Python course.
 - [03 Pattern Advanced Formatting](exercises/03_pattern_advanced_formatting.py)
   - Uses dynamic formatting and alignment for cleaner output formatting.
 
+---
+
+# Files Structure
+
+```text
+02-variables/
+│
+├── exercises/
+├── explorations/
+├── screenshots/
+├── notes.md
+└── README.md
+```
+
+---
+
 ## Progress
 
 - Completed chapter
