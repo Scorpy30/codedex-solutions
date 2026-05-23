@@ -9,9 +9,9 @@ Learning Python through hands-on explorations, pattern building, logic practice,
 | Chapter | Status | Explorations | Notes |
 |---|---|---|---|
 | 01 — Hello World | 🟩 Completed | 🟩 | 🟩 |
-| 02 — Variables | 🟧 Ongoing | ⬜ | ⬜ |
-| 03 — Control Flow | ⬜ Not Started | ⬜ | ⬜ |
-| 04 — Loops | ⬜ Not Started | ⬜ | ⬜ |
+| 02 — Variables | 🟩 Completed | 🟩 | 🟩 |
+| 03 — Control Flow | 🟩 Completed | 🟩 | 🟩 |
+| 04 — Loops | 🟧 On Going | ⬜ | ⬜ |
 | 05 — Lists | ⬜ Not Started | ⬜ | ⬜ |
 | 06 — Functions | ⬜ Not Started | ⬜ | ⬜ |
 | 07 — Classes & Objects | ⬜ Not Started | ⬜ | ⬜ |
